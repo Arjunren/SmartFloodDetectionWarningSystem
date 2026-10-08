@@ -1,0 +1,1 @@
+Flood warning prototype is an ESP32 learning project using water leak probe; low-voltage active buzzer. It measures water probe signal and publishes validated telemetry over Wi-Fi and TLS MQTT for flood preparedness learners. It includes documented wiring, provisioning, simulation tests, and security guidance. Includes provisioning, field guidance.
